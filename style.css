@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+}
+
+#album
+{
+    width:450px;
+    border: 30px;
+}
